@@ -16,3 +16,5 @@
     简易CNN-MNIST分类问题
     
     线性回归-Kaggle HousePrices问题
+    
+    逻辑回归-Kaggle-GiveMeSomeCredit
