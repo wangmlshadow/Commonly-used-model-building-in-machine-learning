@@ -18,3 +18,5 @@
     线性回归-Kaggle HousePrices问题
     
     逻辑回归-Kaggle-GiveMeSomeCredit
+    
+    随机森林-kaggle-Chocolate Bar Ratings
